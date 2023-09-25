@@ -1,0 +1,45 @@
+1. Structured, Unstructured data
+2. Source of data
+3. Outliers
+4. Visualization tools 
+5. 2009/2011 --> a term called data science, 
+                  before that it was called statistics.
+
+People come from different background and 
+end up in data science. 
+Cohort background (many paths to data science)
+Singer -> Doctor -> Data Science or work with data
+6. Characteristics of a data scientist
+      curious, argumentative, judgemental, 
+      ability to tell a story, comfort level, 
+      competetitive advantage --> some domain expertise
+      acquire analytical skills
+7. Course Text Book: 
+'Getting Started with Data Science' Publisher:
+IBM Press; 1 edition (Dec 13 2015) Print.
+Author: Murtaza Haider
+8. Discover optimum solutions to problems 
+Example: Uber collects data to place right driver at 
+          right position, right place, right etc. 
+         Focusing on big data analysis.
+9. Tools to deal with these data 
+10. Develop new algorithmic models 
+11. Interdiciplinary training
+    --> collect, cleaning, analysizing, tools, data strategy, 
+    case studies, data strategy, ML models, efficient solution
+12. Favourite topics from the cohort 
+    -> Regression, Visualization, ANN, behaviour in algorithms 
+        Nearest Neighbour, Visualization. 
+13. Structured data versus Unstructured data 
+14. Time, Distance, Base fair versus Actual fair 
+    --> Regression helps to understand the constant (base), 
+        relationship between time+pay and distance+pay. 
+15. Cloud for data science 
+    --> bypass the physical limitations of the system. 
+    --> multiple entitiies work at the same time, same data 
+    --> access to open-source tools such as Apache
+    --> increases productivity for data scientists
+16. IBM developer skills network provides 
+17. Data science versus Statistics, Role of big data
+
+
